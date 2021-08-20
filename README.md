@@ -1,0 +1,2 @@
+# Chee-Yang-Evan-Ng-MSc-Energy-Systems-Dissertation-University-of-Oxford-2021
+A collection of relevant annotated python scripts, excel toolkits, processed data, and raw data used in the dissertation: Determining the Least-Cost Pathways for A Low-Carbon Power System Transition in Great Britain: A Two-Stage Stochastic Optimization Approach by Chee Yang (Evan) Ng, MSc Energy Systems, University of Oxford 2021 
