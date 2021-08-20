@@ -1,0 +1,362 @@
+current uk no nuclear
+
+
+Welcome to IBM(R) ILOG(R) CPLEX(R) Interactive Optimizer 12.10.0.0
+  with Simplex, Mixed Integer & Barrier Optimizers
+5725-A06 5725-A29 5724-Y48 5724-Y49 5724-Y54 5724-Y55 5655-Y21
+Copyright IBM Corp. 1988, 2019.  All Rights Reserved.
+
+Type 'help' for a list of available commands.
+Type 'help' followed by a command name for more
+information on commands.
+
+CPLEX> Logfile 'cplex.log' closed.
+Logfile 'C:\Users\Bader\AppData\Local\Temp\tmp1wl17oer.cplex.log' open.
+CPLEX> New value for mixed integer optimality gap tolerance: 0.015
+CPLEX> Problem 'C:\Users\Bader\AppData\Local\Temp\tmpu10lpjtp.pyomo.lp' read.
+Read time = 0.84 sec. (58.76 ticks)
+CPLEX> Problem name         : C:\Users\Bader\AppData\Local\Temp\tmpu10lpjtp.pyomo.lp
+Objective sense      : Minimize
+Variables            :  402480  [Nneg: 250630,  Fix: 44,  Box: 72,
+                                 Free: 151680,  Binary: 54]
+Objective nonzeros   :  164399
+Linear constraints   :  566441  [Less: 283200,  Greater: 48000,  Equal: 235241]
+  Nonzeros           : 1400891
+  RHS nonzeros       :  141121
+
+Variables            : Min LB: 0.000000         Max UB: 14196.03       
+Objective nonzeros   : Min   : 11.30825         Max   : 1.425613e+09   
+Linear constraints   :
+  Nonzeros           : Min   : 0.0003508651     Max   : 20000.00       
+  RHS nonzeros       : Min   : 1.000000         Max   : 13920.00       
+CPLEX> Version identifier: 12.10.0.0 | 2019-11-26 | 843d4de2ae
+CPXPARAM_MIP_Tolerances_MIPGap                   0.014999999999999999
+Tried aggregator 2 times.
+MIP Presolve eliminated 261301 rows and 157473 columns.
+MIP Presolve modified 7680 coefficients.
+Aggregator did 104500 substitutions.
+Reduced MIP has 200640 rows, 140507 columns, and 784372 nonzeros.
+Reduced MIP has 54 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 1.11 sec. (887.40 ticks)
+Found incumbent of value 2.4213148e+12 after 3.16 sec. (2179.86 ticks)
+Probing time = 0.28 sec. (25.94 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 200640 rows, 140507 columns, and 784372 nonzeros.
+Reduced MIP has 54 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.73 sec. (362.85 ticks)
+Probing time = 0.19 sec. (26.15 ticks)
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 271.80 sec. (82102.32 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                       2.42131e+12  -7.22059e+10           102.98%
+      0     0   1.84814e+11    17   2.42131e+12   1.84814e+11      450   92.37%
+      0     0   1.84849e+11    17   2.42131e+12    Cuts: 9756  2383913   92.37%
+*     0+    0                       1.85589e+11   1.84849e+11             0.40%
+
+Implied bound cuts applied:  411
+Flow cuts applied:  1822
+Mixed integer rounding cuts applied:  9956
+Gomory fractional cuts applied:  4
+
+Root node processing (before b&c):
+  Real time             = 126754.91 sec. (55034396.05 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) = 126754.91 sec. (55034396.05 ticks)
+
+Solution pool: 3 solutions saved.
+
+MIP - Integer optimal, tolerance (0.015/1e-06):  Objective =  1.8558918809e+11
+Current MIP best bound =  1.8512629490e+11 (gap = 4.62893e+08, 0.25%)
+Solution time = 126754.91 sec.  Iterations = 4923224  Nodes = 0 (1)
+Deterministic time = 55034397.20 ticks  (434.18 ticks/sec)
+
+CPLEX> Incumbent solution written to file 'C:\Users\Bader\AppData\Local\Temp\tmpxc7inn3a.cplex.sol'.
+CPLEX> 
+
+ok
+optimal
+MIP - Integer optimal, tolerance (0.015/1e-06)\x3a Objective = 1.8558918809e+11
+126757.4511551857
+
+This section shows the result output: [BASE CASE]
+
+The total Net Present Cost for 25 years is: 185589 million GBP-2025
+
+
+GENERATION CAPACITY ACROSS LOCATION
+
+ROOFTOP SOLAR: 
+node 1RS capacity [MW]: 0
+node 2RS capacity [MW]: 0
+node 3RS capacity [MW]: 0
+node 4RS capacity [MW]: 0
+node 5RS capacity [MW]: 0
+node 6RS capacity [MW]: 0
+node 7RS capacity [MW]: 0
+node 8RS capacity [MW]: 0
+node 9RS capacity [MW]: 0
+node 10RS capacity [MW]: 0
+node 11RS capacity [MW]: 0
+node 12RS capacity [MW]: 0
+node 13RS capacity [MW]: 0
+node 14RS capacity [MW]: 0
+node 15RS capacity [MW]: 0
+node 16RS capacity [MW]: 0
+node 17RS capacity [MW]: 0
+node 18RS capacity [MW]: 0
+node 19RS capacity [MW]: 0
+node 20RS capacity [MW]: 0
+node 21RS capacity [MW]: 0
+node 22RS capacity [MW]: 0
+node 23RS capacity [MW]: 0
+node 24RS capacity [MW]: 0
+node 25RS capacity [MW]: 0
+node 26RS capacity [MW]: 0
+node 27RS capacity [MW]: 0
+node 28RS capacity [MW]: 0
+node 29RS capacity [MW]: 0
+
+UTILITY-SCALE SOLAR: 
+node 1US capacity [MW]: 0
+node 2US capacity [MW]: 0
+node 3US capacity [MW]: 0
+node 4US capacity [MW]: 0
+node 5US capacity [MW]: 0
+node 6US capacity [MW]: 0
+node 7US capacity [MW]: 0
+node 8US capacity [MW]: 0
+node 9US capacity [MW]: 0
+node 10US capacity [MW]: 0
+node 11US capacity [MW]: 0
+node 12US capacity [MW]: 0
+node 13US capacity [MW]: 0
+node 14US capacity [MW]: 0
+node 15US capacity [MW]: 2640
+node 16US capacity [MW]: 0
+node 17US capacity [MW]: 0
+node 18US capacity [MW]: 0
+node 19US capacity [MW]: 1508
+node 20US capacity [MW]: 6281
+node 21US capacity [MW]: 5840
+node 22US capacity [MW]: 0
+node 23US capacity [MW]: 3454
+node 24US capacity [MW]: 0
+node 25US capacity [MW]: 2959
+node 26US capacity [MW]: 0
+node 27US capacity [MW]: 4886
+node 28US capacity [MW]: 2759
+node 29US capacity [MW]: 5839
+
+ONSHORE WIND: 
+node 1ON capacity [MW]: 0
+node 2ON capacity [MW]: 0
+node 3ON capacity [MW]: 3496
+node 4ON capacity [MW]: 0
+node 5ON capacity [MW]: 0
+node 6ON capacity [MW]: 0
+node 7ON capacity [MW]: 1578
+node 8ON capacity [MW]: 0
+node 9ON capacity [MW]: 1145
+node 10ON capacity [MW]: 2064
+node 11ON capacity [MW]: 243
+node 12ON capacity [MW]: 0
+node 13ON capacity [MW]: 2645
+node 14ON capacity [MW]: 0
+node 15ON capacity [MW]: 0
+node 16ON capacity [MW]: 170
+node 17ON capacity [MW]: 0
+node 18ON capacity [MW]: 560
+node 19ON capacity [MW]: 0
+node 20ON capacity [MW]: 0
+node 21ON capacity [MW]: 585
+node 22ON capacity [MW]: 0
+node 23ON capacity [MW]: 0
+node 24ON capacity [MW]: 0
+node 25ON capacity [MW]: 0
+node 26ON capacity [MW]: 0
+node 27ON capacity [MW]: 881
+node 28ON capacity [MW]: 0
+node 29ON capacity [MW]: 0
+
+OFFSHORE WIND: 
+node 1OF capacity [MW]: 0
+node 2OF capacity [MW]: 0
+node 3OF capacity [MW]: 0
+node 4OF capacity [MW]: 5907
+node 5OF capacity [MW]: 0
+node 6OF capacity [MW]: 0
+node 7OF capacity [MW]: 0
+node 8OF capacity [MW]: 0
+node 9OF capacity [MW]: 0
+node 10OF capacity [MW]: 0
+node 11OF capacity [MW]: 2349
+node 12OF capacity [MW]: 3188
+node 13OF capacity [MW]: 0
+node 14OF capacity [MW]: 0
+node 15OF capacity [MW]: 0
+node 16OF capacity [MW]: 3801
+node 17OF capacity [MW]: 0
+node 18OF capacity [MW]: 0
+node 19OF capacity [MW]: 6000
+node 20OF capacity [MW]: 3583
+node 21OF capacity [MW]: 0
+node 22OF capacity [MW]: 0
+node 23OF capacity [MW]: 0
+node 24OF capacity [MW]: 0
+node 25OF capacity [MW]: 0
+node 26OF capacity [MW]: 6488
+node 27OF capacity [MW]: 2906
+node 28OF capacity [MW]: 1180
+node 29OF capacity [MW]: 0
+
+NATURAL GAS: 
+node 1NG capacity [MW]: 0
+node 2NG capacity [MW]: 0
+node 3NG capacity [MW]: 0
+node 4NG capacity [MW]: 0
+node 5NG capacity [MW]: 0
+node 6NG capacity [MW]: 0
+node 7NG capacity [MW]: 0
+node 8NG capacity [MW]: 0
+node 9NG capacity [MW]: 877
+node 10NG capacity [MW]: 0
+node 11NG capacity [MW]: 6243
+node 12NG capacity [MW]: 0
+node 13NG capacity [MW]: 3235
+node 14NG capacity [MW]: 0
+node 15NG capacity [MW]: 0
+node 16NG capacity [MW]: 0
+node 17NG capacity [MW]: 0
+node 18NG capacity [MW]: 0
+node 19NG capacity [MW]: 0
+node 20NG capacity [MW]: 0
+node 21NG capacity [MW]: 0
+node 22NG capacity [MW]: 6714
+node 23NG capacity [MW]: 2195
+node 24NG capacity [MW]: 0
+node 25NG capacity [MW]: 0
+node 26NG capacity [MW]: 0
+node 27NG capacity [MW]: 0
+node 28NG capacity [MW]: 0
+node 29NG capacity [MW]: 0
+
+AVERAGE ANNUAL EMISSIONS: 
+year_step 1 average emissions: 225305 tonCO2e
+year_step 2 average emissions: 537823 tonCO2e
+year_step 3 average emissions: 1920316 tonCO2e
+year_step 4 average emissions: 29344055 tonCO2e
+year_step 5 average emissions: 31095678 tonCO2e
+
+TOTAL CAPEX: 133234 million GBP-2025
+Generation CAPEX: 130387 million GBP-2025
+Transmission Line CAPEX: 309 million GBP-2025
+Interconnector CAPEX: 2536 million GBP-2025
+1278054523.8033898
+
+TOTAL CAPEX: 133234 million GBP-2025
+Generation CAPEX: 130387 million GBP-2025
+Transmission Line CAPEX: 309 million GBP-2025
+Interconnector CAPEX: 2536 million GBP-2025
+Total carbon abatement cost: 6390 million GBP-2025
+
+Operation cost over 26 years in NPV
+RS Generation Cost:0 million GBP-2025
+US Generation Cost:6946 million GBP-2025
+ON Generation Cost:9546 million GBP-2025
+OF Generation Cost:41067 million GBP-2025
+NG Generation Cost:14677 million GBP-2025
+
+from node1 to node2 binary: 0.0
+from node1 to node3 binary: 1.0
+from node2 to node3 binary: 1.0
+from node2 to node4 binary: 1.0
+from node3 to node4 binary: 1.0
+from node4 to node7 binary: 1.0
+from node4 to node6 binary: 1.0
+from node4 to node5 binary: 1.0
+from node5 to node6 binary: 0.0
+from node6 to node9 binary: 0.0
+from node7 to node8 binary: 0.0
+from node6 to node7 binary: 0.0
+from node8 to node10 binary: 0.0
+from node9 to node11 binary: 0.0
+from node9 to node10 binary: 0.0
+from node10 to node15 binary: 0.0
+from node11 to node15 binary: 0.0
+from node11 to node13 binary: 0.0
+from node11 to node12 binary: 0.0
+from node12 to node13 binary: 0.0
+from node12 to node18 binary: 0.0
+from node13 to node18 binary: 0.0
+from node13 to node15 binary: 0.0
+from node13 to node14 binary: 0.0
+from node14 to node16 binary: 0.0
+from node15 to node16 binary: 0.0
+from node14 to node15 binary: 0.0
+from node16 to node19 binary: 0.0
+from node16 to node17 binary: 0.0
+from node17 to node22 binary: 0.0
+from node17 to node18 binary: 0.0
+from node18 to node23 binary: 0.0
+from node20 to node26 binary: 0.0
+from node19 to node20 binary: 0.0
+from node16 to node21 binary: 0.0
+from node21 to node25 binary: 0.0
+from node20 to node21 binary: 0.0
+from node19 to node21 binary: 0.0
+from node16 to node22 binary: 0.0
+from node22 to node25 binary: 0.0
+from node21 to node22 binary: 0.0
+from node23 to node24 binary: 0.0
+from node22 to node23 binary: 0.0
+from node23 to node29 binary: 0.0
+from node24 to node28 binary: 0.0
+from node24 to node25 binary: 1.7502573803950154e-17
+from node25 to node26 binary: 0.0
+from node26 to node27 binary: 2.720959907503821e-16
+from node27 to node28 binary: 0.0
+from node28 to node29 binary: 0.0
+
+Interconnector to be built: 
+node 1 binary interconnector: 1
+node 2 binary interconnector: 0
+node 3 binary interconnector: 0
+node 4 binary interconnector: 0
+node 5 binary interconnector: 0
+node 6 binary interconnector: 0
+node 7 binary interconnector: 0
+node 8 binary interconnector: 0
+node 9 binary interconnector: 0
+node 10 binary interconnector: 0
+node 11 binary interconnector: 0
+node 12 binary interconnector: 0
+node 13 binary interconnector: 0
+node 14 binary interconnector: 0
+node 15 binary interconnector: 0
+node 16 binary interconnector: 0
+node 17 binary interconnector: 0
+node 18 binary interconnector: 1
+node 19 binary interconnector: 0
+node 20 binary interconnector: 0
+node 21 binary interconnector: 0
+node 22 binary interconnector: 0
+node 23 binary interconnector: 0
+node 24 binary interconnector: 0
+node 25 binary interconnector: 0
+node 26 binary interconnector: 1
+node 27 binary interconnector: 0
+node 28 binary interconnector: 0
+node 29 binary interconnector: 1
+
+Total import cost: 11 million GBP 2025
+Total export revenue: 26 million GBP 2025

@@ -1,0 +1,346 @@
+The total Net Present Cost for 25 years is: 191882 million GBP-2025
+
+
+GENERATION CAPACITY ACROSS LOCATION
+
+ROOFTOP SOLAR: 
+node 1RS capacity [MW]: 0
+node 2RS capacity [MW]: 0
+node 3RS capacity [MW]: 0
+node 4RS capacity [MW]: 0
+node 5RS capacity [MW]: 0
+node 6RS capacity [MW]: 0
+node 7RS capacity [MW]: 0
+node 8RS capacity [MW]: 0
+node 9RS capacity [MW]: 0
+node 10RS capacity [MW]: 0
+node 11RS capacity [MW]: 0
+node 12RS capacity [MW]: 0
+node 13RS capacity [MW]: 0
+node 14RS capacity [MW]: 0
+node 15RS capacity [MW]: 0
+node 16RS capacity [MW]: 0
+node 17RS capacity [MW]: 0
+node 18RS capacity [MW]: 0
+node 19RS capacity [MW]: 0
+node 20RS capacity [MW]: 0
+node 21RS capacity [MW]: 0
+node 22RS capacity [MW]: 0
+node 23RS capacity [MW]: 0
+node 24RS capacity [MW]: 0
+node 25RS capacity [MW]: 0
+node 26RS capacity [MW]: 0
+node 27RS capacity [MW]: 0
+node 28RS capacity [MW]: 0
+node 29RS capacity [MW]: 0
+
+UTILITY-SCALE SOLAR: 
+node 1US capacity [MW]: 0
+node 2US capacity [MW]: 0
+node 3US capacity [MW]: 0
+node 4US capacity [MW]: 0
+node 5US capacity [MW]: 0
+node 6US capacity [MW]: 0
+node 7US capacity [MW]: 0
+node 8US capacity [MW]: 0
+node 9US capacity [MW]: 0
+node 10US capacity [MW]: 0
+node 11US capacity [MW]: 0
+node 12US capacity [MW]: 0
+node 13US capacity [MW]: 0
+node 14US capacity [MW]: 0
+node 15US capacity [MW]: 2640
+node 16US capacity [MW]: 0
+node 17US capacity [MW]: 0
+node 18US capacity [MW]: 0
+node 19US capacity [MW]: 0
+node 20US capacity [MW]: 9151
+node 21US capacity [MW]: 10683
+node 22US capacity [MW]: 0
+node 23US capacity [MW]: 3454
+node 24US capacity [MW]: 0
+node 25US capacity [MW]: 0
+node 26US capacity [MW]: 1533
+node 27US capacity [MW]: 5641
+node 28US capacity [MW]: 866
+node 29US capacity [MW]: 1892
+
+ONSHORE WIND: 
+node 1ON capacity [MW]: 0
+node 2ON capacity [MW]: 23
+node 3ON capacity [MW]: 3496
+node 4ON capacity [MW]: 0
+node 5ON capacity [MW]: 0
+node 6ON capacity [MW]: 0
+node 7ON capacity [MW]: 1578
+node 8ON capacity [MW]: 0
+node 9ON capacity [MW]: 2094
+node 10ON capacity [MW]: 2064
+node 11ON capacity [MW]: 243
+node 12ON capacity [MW]: 0
+node 13ON capacity [MW]: 2645
+node 14ON capacity [MW]: 0
+node 15ON capacity [MW]: 0
+node 16ON capacity [MW]: 170
+node 17ON capacity [MW]: 0
+node 18ON capacity [MW]: 560
+node 19ON capacity [MW]: 183
+node 20ON capacity [MW]: 0
+node 21ON capacity [MW]: 743
+node 22ON capacity [MW]: 0
+node 23ON capacity [MW]: 0
+node 24ON capacity [MW]: 0
+node 25ON capacity [MW]: 0
+node 26ON capacity [MW]: 0
+node 27ON capacity [MW]: 664
+node 28ON capacity [MW]: 0
+node 29ON capacity [MW]: 0
+
+OFFSHORE WIND: 
+node 1OF capacity [MW]: 0
+node 2OF capacity [MW]: 0
+node 3OF capacity [MW]: 0
+node 4OF capacity [MW]: 5521
+node 5OF capacity [MW]: 0
+node 6OF capacity [MW]: 0
+node 7OF capacity [MW]: 0
+node 8OF capacity [MW]: 0
+node 9OF capacity [MW]: 0
+node 10OF capacity [MW]: 0
+node 11OF capacity [MW]: 1235
+node 12OF capacity [MW]: 3351
+node 13OF capacity [MW]: 0
+node 14OF capacity [MW]: 0
+node 15OF capacity [MW]: 0
+node 16OF capacity [MW]: 3883
+node 17OF capacity [MW]: 0
+node 18OF capacity [MW]: 0
+node 19OF capacity [MW]: 6000
+node 20OF capacity [MW]: 4577
+node 21OF capacity [MW]: 0
+node 22OF capacity [MW]: 0
+node 23OF capacity [MW]: 0
+node 24OF capacity [MW]: 0
+node 25OF capacity [MW]: 0
+node 26OF capacity [MW]: 6812
+node 27OF capacity [MW]: 3304
+node 28OF capacity [MW]: 0
+node 29OF capacity [MW]: 0
+
+HYDRO POWER: 
+node 1HP capacity [MW]: 0
+node 2HP capacity [MW]: 0
+node 3HP capacity [MW]: 0
+node 4HP capacity [MW]: 0
+node 5HP capacity [MW]: 0
+node 6HP capacity [MW]: 0
+node 7HP capacity [MW]: 0
+node 8HP capacity [MW]: 0
+node 9HP capacity [MW]: 0
+node 10HP capacity [MW]: 0
+node 11HP capacity [MW]: 0
+node 12HP capacity [MW]: 0
+node 13HP capacity [MW]: 0
+node 14HP capacity [MW]: 0
+node 15HP capacity [MW]: 0
+node 16HP capacity [MW]: 0
+node 17HP capacity [MW]: 0
+node 18HP capacity [MW]: 0
+node 19HP capacity [MW]: 0
+node 20HP capacity [MW]: 0
+node 21HP capacity [MW]: 0
+node 22HP capacity [MW]: 0
+node 23HP capacity [MW]: 0
+node 24HP capacity [MW]: 0
+node 25HP capacity [MW]: 0
+node 26HP capacity [MW]: 0
+node 27HP capacity [MW]: 0
+node 28HP capacity [MW]: 0
+node 29HP capacity [MW]: 0
+
+NATURAL GAS: 
+node 1NG capacity [MW]: 0
+node 2NG capacity [MW]: 0
+node 3NG capacity [MW]: 0
+node 4NG capacity [MW]: 0
+node 5NG capacity [MW]: 0
+node 6NG capacity [MW]: 0
+node 7NG capacity [MW]: 1890
+node 8NG capacity [MW]: 1275
+node 9NG capacity [MW]: 0
+node 10NG capacity [MW]: 0
+node 11NG capacity [MW]: 1358
+node 12NG capacity [MW]: 0
+node 13NG capacity [MW]: 0
+node 14NG capacity [MW]: 0
+node 15NG capacity [MW]: 0
+node 16NG capacity [MW]: 0
+node 17NG capacity [MW]: 4355
+node 18NG capacity [MW]: 0
+node 19NG capacity [MW]: 0
+node 20NG capacity [MW]: 0
+node 21NG capacity [MW]: 0
+node 22NG capacity [MW]: 5261
+node 23NG capacity [MW]: 629
+node 24NG capacity [MW]: 0
+node 25NG capacity [MW]: 2430
+node 26NG capacity [MW]: 0
+node 27NG capacity [MW]: 1942
+node 28NG capacity [MW]: 0
+node 29NG capacity [MW]: 0
+
+AVERAGE ANNUAL EMISSIONS: 
+year_step 1 average emissions: 0 tonCO2e
+year_step 2 average emissions: 76279 tonCO2e
+year_step 3 average emissions: 1103220 tonCO2e
+year_step 4 average emissions: 2042496 tonCO2e
+year_step 5 average emissions: 3148669 tonCO2e
+TOTAL CAPEX: 134885 million GBP-2025
+Generation CAPEX: 130043 million GBP-2025
+Transmission Line CAPEX: 2304 million GBP-2025
+Interconnector CAPEX: 2536 million GBP-2025
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+TOTAL CAPEX: 134885 million GBP-2025
+Generation CAPEX: 130043 million GBP-2025
+Transmission Line CAPEX: 2304 million GBP-2025
+Interconnector CAPEX: 2536 million GBP-2025
+Total carbon abatement cost: 3353 million GBP-2025
+ 
+Operation cost over 26 years in NPV
+RS Generation Cost:0 million GBP-2025
+US Generation Cost:7036 million GBP-2025
+ON Generation Cost:10181 million GBP-2025
+OF Generation Cost:40255 million GBP-2025
+HP Generation Cost:0 million GBP-2025
+NG Generation Cost:1585 million GBP-2025
+from node1 to node2 binary: 0.0
+from node1 to node3 binary: 1.0
+from node2 to node3 binary: 1.0
+from node2 to node4 binary: 1.0
+from node3 to node4 binary: 1.0
+from node4 to node7 binary: 1.0
+from node4 to node6 binary: 1.0
+from node4 to node5 binary: 1.0
+from node5 to node6 binary: 0.0
+from node6 to node9 binary: 0.0
+from node7 to node8 binary: 0.0
+from node6 to node7 binary: 1.0
+from node8 to node10 binary: 0.0
+from node9 to node11 binary: 1.0
+from node9 to node10 binary: 1.0
+from node10 to node15 binary: 0.0
+from node11 to node15 binary: 1.0
+from node11 to node13 binary: 0.0
+from node11 to node12 binary: 0.0
+from node12 to node13 binary: 0.0
+from node12 to node18 binary: 0.0
+from node13 to node18 binary: 0.0
+from node13 to node15 binary: 1.0
+from node13 to node14 binary: 1.0
+from node14 to node16 binary: 0.0
+from node15 to node16 binary: 0.0
+from node14 to node15 binary: 0.0
+from node16 to node19 binary: 0.0
+from node16 to node17 binary: 1.0
+from node17 to node22 binary: 1.0
+from node17 to node18 binary: 0.0
+from node18 to node23 binary: 1.0
+from node20 to node26 binary: 0.0
+from node19 to node20 binary: 1.0
+from node16 to node21 binary: 0.0
+from node21 to node25 binary: 1.0
+from node20 to node21 binary: 1.0
+from node19 to node21 binary: 0.0
+from node16 to node22 binary: 1.0
+from node22 to node25 binary: 1.0
+from node21 to node22 binary: 1.0
+from node23 to node24 binary: 0.0
+from node22 to node23 binary: 0.0
+from node23 to node29 binary: 0.0
+from node24 to node28 binary: 0.0
+from node24 to node25 binary: 1.0
+from node25 to node26 binary: 0.0
+from node26 to node27 binary: 1.0
+from node27 to node28 binary: 0.0
+from node28 to node29 binary: 0.0
+Interconnector to be built: 
+node 1 binary interconnector: 1
+node 2 binary interconnector: 0
+node 3 binary interconnector: 0
+node 4 binary interconnector: 0
+node 5 binary interconnector: 0
+node 6 binary interconnector: 0
+node 7 binary interconnector: 0
+node 8 binary interconnector: 0
+node 9 binary interconnector: 0
+node 10 binary interconnector: 0
+node 11 binary interconnector: 0
+node 12 binary interconnector: 0
+node 13 binary interconnector: 0
+node 14 binary interconnector: 0
+node 15 binary interconnector: 0
+node 16 binary interconnector: 0
+node 17 binary interconnector: 0
+node 18 binary interconnector: 1
+node 19 binary interconnector: 0
+node 20 binary interconnector: 0
+node 21 binary interconnector: 0
+node 22 binary interconnector: 0
+node 23 binary interconnector: 0
+node 24 binary interconnector: 0
+node 25 binary interconnector: 0
+node 26 binary interconnector: 1
+node 27 binary interconnector: 0
+node 28 binary interconnector: 0
+node 29 binary interconnector: 1
+Total import cost: 17 million GBP 2025
+Total export revenue: 20 million GBP 2025
